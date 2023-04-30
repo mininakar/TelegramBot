@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import json
 
-# api_url = 'https://api.telegram.org/6176884644:AAE8459aNh1EWgxVSU1YZL9R5EpIc_K79bc/getMe'
+
 
 class Get_dog:
 
